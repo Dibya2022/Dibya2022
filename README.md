@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dibyaranjan Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 <img alt="Coder GIF" align="right"  width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya2022&label=Profile%20views&color=0e75b6&style=flat" alt="dibya2022" /> </p>
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,ReactJS**
 
-- 📫 How to reach me **kumardibya20@gmail.com**
+- 📫 How to reach me **dibyaranjannayak.200@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 ## 🌐 Socials:
