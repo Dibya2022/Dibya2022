@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dibyaranjan Nayak</h1>
 <h3 align="center">A Passionate Frontend developer from India</h3>
+<img alt="Coder GIF" align="center"  width=1000 height=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya2022&label=Profile%20views&color=0e75b6&style=flat" alt="dibya2022" /> </p>
 
@@ -31,4 +32,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibya2022&show_icons=true&locale=en&layout=compact" alt="dibya2022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibya2022&show_icons=true&locale=en" alt="dibya2022" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibya2022&show_icons=true&locale=en" alt="dibya2022" /></p
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Dibya2022&theme=default&hide_border=false" alt="dibya2022" /></p> 
+
+<p><img align="left"src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dibya2022" /></p> 
+
+
+
+
